@@ -1,8 +1,9 @@
-# 3X-UI
+# 3X-UI-misaka-fixed
 
 <p align="center"><a href="#"><img src="./media/3X-UI.png" alt="Image"></a></p>
 
 **一个更好的面板 • 基于Xray Core构建**
+***此版本曾由Misaka-blog维护，现更改部分代码使其能够正常更新包***
 
 [![](https://img.shields.io/github/v/release/misaka-blog/3x-ui.svg)](https://github.com/Misaka-blog/3x-ui/releases)
 [![](https://img.shields.io/github/actions/workflow/status/misaka-blog/3x-ui/release.yml.svg)](#)
