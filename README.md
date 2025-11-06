@@ -6,6 +6,8 @@
 
 ***此版本曾由Misaka-blog维护，现更改部分代码使其能够正常更新包***
 
+~~弥撒卡不在金币就是👴的辣~~
+
 [![](https://img.shields.io/github/v/release/misaka-blog/3x-ui.svg)](https://github.com/Misaka-blog/3x-ui/releases)
 [![](https://img.shields.io/github/actions/workflow/status/misaka-blog/3x-ui/release.yml.svg)](#)
 [![GO Version](https://img.shields.io/github/go-mod/go-version/misaka-blog/3x-ui.svg)](#)
